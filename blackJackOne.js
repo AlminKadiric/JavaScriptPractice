@@ -10,6 +10,7 @@ let messageEl=document.getElementById("message-el");
 let sumEL = document.querySelector("#sum-el");
 
 let cardsEl = document.getElementById("cards-el");
+//blackjack
 
 function startGame(){
     renderGame();
